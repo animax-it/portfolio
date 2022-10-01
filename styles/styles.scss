@@ -264,6 +264,30 @@ section {
     }
 }
 
+#headerPopup{
+    width:75%;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    padding-left: 300rem;
+   
+    
+  }
+  
+#headerPopup iframe{
+    width:100%;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    padding-left: 300rem;
+  }
+
+.centerAlignment{
+    display: flex;
+    justify-content: center;
+    padding-left: 300rem;
+}  
+
 .about-stats {
     padding-bottom: 4rem;
     .progress-bars {
