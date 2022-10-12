@@ -282,6 +282,24 @@ section {
     padding-left: 300rem;
   }
 
+  #headerPopup2{
+    width:75%;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    padding-left: 300rem;
+   
+    
+  }
+  
+#headerPopup2 iframe{
+    width:100%;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    padding-left: 300rem;
+  }
+
 .centerAlignment{
     display: flex;
     justify-content: center;
@@ -328,6 +346,8 @@ section {
                     .react{ width: 60%; }
                     .node{ width: 70%; }
                     .python{ width: 70%; }
+                    .sql { width: 80%;}
+                    .vercel { width: 80%;}
                 }
             }
         }
